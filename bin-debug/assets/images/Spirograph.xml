@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9347aa9a2cf2d3bdf357db2ff0fd8b9a:1/1$ -->
+<TextureAtlas imagePath="Spirograph.png">
+    <SubTexture name="sliderGuide" x="3" y="51" width="300" height="6"/>
+    <SubTexture name="sliderHandle" x="161" y="3" width="30" height="30"/>
+    <SubTexture name="toggle" x="107" y="3" width="50" height="44"/>
+    <SubTexture name="toggleBg" x="3" y="3" width="100" height="44"/>
+</TextureAtlas>
