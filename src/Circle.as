@@ -12,8 +12,6 @@ package{
 			super();
 			_circleVO = circleVO;
 			initAssets();
-
-			//yo yo yo
 		}
 
 		private function initAssets():void{
