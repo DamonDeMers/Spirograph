@@ -1,19 +1,21 @@
 package{
-	
+
 	import starling.display.Shape;
 	import starling.display.Sprite;
-	
+
 	public class Circle extends Sprite{
-		
+
 		private var _pen:Shape;
 		private var _circleVO:CircleVO;
-		
+
 		public function Circle(circleVO:CircleVO){
 			super();
 			_circleVO = circleVO;
 			initAssets();
+
+			//yo yo yo
 		}
-		
+
 		private function initAssets():void{
 			var circle:Shape = new Shape();
 			circle.graphics.lineStyle(4);
